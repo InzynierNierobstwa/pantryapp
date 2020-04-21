@@ -1,0 +1,23 @@
+.wrapperForm {
+  width: 80%;
+  margin: 2em auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.formInputName,
+.formInputCategory,
+.formInputPlace {
+  margin: 0 0.5em;
+}
+
+.formInputAmount,
+.formInputUnit {
+  margin: 0 0.5em;
+  width: 2em;
+}
+
+.wrapperHeaderIcon {
+  background: none;
+  border: none;
+}

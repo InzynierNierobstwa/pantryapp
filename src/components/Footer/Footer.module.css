@@ -1,0 +1,25 @@
+.wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  background-color: #019592;
+  color: #fff;
+}
+
+.wrapperFooterRight {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 2em;
+}
+
+.wrapperFooterIcon {
+  padding: 0 0.5em;
+}
+/*# sourceMappingURL=Footer.module.css.map */

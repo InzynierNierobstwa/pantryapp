@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #019592;
+  color: #fff;
+}
+
+.wrapperHeaderRight {
+  display: flex;
+  margin: 2em;
+}
+
+.wrapperHeaderLeft {
+  display: flex;
+  margin: 2em;
+}
+
+.wrapperHeaderIcon {
+  color: #fff;
+  padding: 0 0.5em;
+}
+
+.wrapperHeaderIconActive {
+  color: #4d5057;
+  padding: 0 0.5em;
+}

@@ -1,0 +1,27 @@
+.wrapperForm {
+  width: 80%;
+  margin: 2em auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.formInputName,
+.formInputCategory,
+.formInputPlace {
+  margin: 0 0.5em;
+}
+
+.formInputAmount,
+.formInputUnit {
+  margin: 0 0.5em;
+  width: 2em;
+}
+
+.wrapperHeaderIcon {
+  background: none;
+  border: none;
+}
+/*# sourceMappingURL=InputRow.module.css.map */
